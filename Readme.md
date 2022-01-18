@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ильдар Бадаев](https://up.htmlacademy.ru/htmlcss/33/user/1757967).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Панасюк] (https://htmlacademy.ru/profile/sasha_oldsport).
 
 ---
 
